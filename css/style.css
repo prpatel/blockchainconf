@@ -512,7 +512,7 @@ a:focus {
 }
 
 .speaker-list {
-  height: 275px;
+  height: 350px;
 }
 
 .schedule-odd {
@@ -598,4 +598,9 @@ a:focus {
     display: block;
   }
   /* hide it elsewhere */
+}
+
+.col-centered{
+  float: none;
+  margin: 0 auto;
 }
