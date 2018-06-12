@@ -603,4 +603,5 @@ a:focus {
 .col-centered{
   float: none;
   margin: 0 auto;
+  background-color: #2a3940;
 }
