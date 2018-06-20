@@ -605,3 +605,7 @@ a:focus {
   margin: 0 auto;
   background-color: #2a3940;
 }
+
+.img-wrap {
+  width: 10px;
+}
