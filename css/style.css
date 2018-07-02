@@ -600,12 +600,19 @@ a:focus {
   /* hide it elsewhere */
 }
 
-.col-centered{
+.col-centered {
   float: none;
   margin: 0 auto;
   background-color: #2a3940;
 }
 
+
 .img-wrap {
   margin: 10px;
+}
+
+.speaker-columns {
+  background-color: #2a3940;
+  /*margin: 10px;*/
+  height: 375px;
 }
