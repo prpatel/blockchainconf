@@ -323,7 +323,7 @@ a:focus {
   color: #222;
 }
 /* Venobox */
-.vbox-overlay { background: #1FA1B7 }
+.vbox-overlay { background: #fff }
 .vbox-close { width: 40px }
 .vbox-next, .vbox-prev {
   margin-top: -40px;
@@ -331,7 +331,7 @@ a:focus {
   width: 40px;
   height: 80px;
   border-width: 0;
-  background-color: #1FA1B7;
+  background-color: #fff;
 }
 .vbox-next { background-position: center right }
 .vbox-prev { background-position: center left }

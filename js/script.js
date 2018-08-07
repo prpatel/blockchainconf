@@ -116,7 +116,7 @@ $(document).ready(function() {
                     framewidth: '100%',
                     frameheight: '100%',
                     border: '10px',
-                    bgcolor: '#fac552',
+                    bgcolor: '#fff',
                     titleattr: 'data-title'
                 });
     initNavbar();
